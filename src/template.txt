@@ -1,0 +1,13 @@
+// eslint-disable-next-line no-unused-vars
+exports.run = (bot, msg, args) => {
+  
+
+// comand stuff goes in here
+
+}
+
+exports.help = {
+    name: 'name',
+    usage: 'usage',
+    description: 'desc'
+}
