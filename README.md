@@ -26,3 +26,5 @@ $ pm2 start bot.js --name="NameForTheProcess"
 ## License
 
 GPL-3.0 © [Stebulous](https://dosage.wtf)
+
+This is a fork of Rayzr's [Bot Base](https://github.com/rayzrdev/bot-base). (thanks Rayzr!)
