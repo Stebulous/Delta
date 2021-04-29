@@ -19,7 +19,7 @@ $ npm run bot
 install [pm2](https://github.com/Unitech/pm2)  
 
 ```sh
-$ cd PATH/TO/LightBotv2/lib
+$ cd PATH/TO/Delta/src
 $ pm2 start bot.js --name="NameForTheProcess"
 ```
 
